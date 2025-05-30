@@ -178,13 +178,6 @@ Customer-Churn-Prediction/
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
----
-
-## 📧 Contact
-
-- **Email**: your-email@example.com
-- **LinkedIn**: Your LinkedIn Profile
-- **Portfolio**: Your Portfolio
 
 ---
 
