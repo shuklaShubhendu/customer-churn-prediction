@@ -10,6 +10,7 @@
 
 ---
 
+
 ## 📋 Project Overview
 
 This project predicts customer churn for a telecom company, achieving an AUC-ROC of 88%. It includes:
@@ -166,6 +167,7 @@ Customer-Churn-Prediction/
 
 ---
 
+
 ## 📚 Future Improvements
 
 - Integrate real-time data streaming for dynamic predictions.
@@ -186,5 +188,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
+
 
 # ⭐ **If you found this project helpful, please give it a star!**
